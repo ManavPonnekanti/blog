@@ -9,6 +9,13 @@
     <lastBuildDate>Thu, 04 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:60801/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Some poems I like</title>
+      <link>http://localhost:60801/posts/poems/</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60801/posts/poems/</guid>
+      <description>&lt;p&gt;I came across &lt;a href=&#34;https://www.newyorker.com/magazine/2023/03/06/put-my-house&#34;&gt;this poem&lt;/a&gt; in the New Yorker and it made me despair somewhat.&lt;/p&gt;&#xA;&lt;p&gt;In response, these are some of the poems I often find myself coming back to, reading aloud to myself, and writing out repeatedly as a means of procrastination.&lt;/p&gt;&#xA;&lt;h2 id=&#34;a-shropshire-lad-xl&#34;&gt;A Shropshire Lad, XL&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;A.E. Housman&lt;/em&gt;&lt;/p&gt;&#xA;&lt;pre&gt;&#xA;Into my heart an air that kills&#xA;From yon far country blows:&#xA;What are those blue remembered hills,&#xA;What spires, what farms are those?&#xA;&#xA;That is the land of lost content,&#xA;I see it shining plain,&#xA;The happy highways where I went&#xA;And cannot come again.&#xA;&lt;/pre&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;moonlight-night&#34;&gt;Moonlight Night&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;R.M. Rilke&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Wellness as work ethic</title>
       <link>http://localhost:60801/posts/wellness-work-ethic/</link>
       <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
