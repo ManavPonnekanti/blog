@@ -21,6 +21,6 @@ In my free time I run a book club, which you can find out more about [here](/boo
 
 ## Colophon
 
-This blog is built with [Hugo](https://gohugo.io/), a static site generator written in Go. Previous versions used [Jekyll](https://jekyllrb.com) and [Eleventy](https://11ty.dev). It is hosted for free on [Cloudflare Pages](https://pages.cloudflare.com). The source code is available [here](https://github.com/ManavPonnekanti/website), feel free to use or adapt as you see fit. Posts are written in the Markdown notes app [Bear](https://bear.app).
+This blog is built with [Hugo](https://gohugo.io/), a static site generator written in Go. Previous versions used [Jekyll](https://jekyllrb.com) and [Eleventy](https://11ty.dev). It is hosted for free on [Cloudflare Pages](https://pages.cloudflare.com). The source code is available [here](https://github.com/ManavPonnekanti/blog), feel free to use or adapt as you see fit. Posts are written in the Markdown notes app [Bear](https://bear.app).
 
 A goal of this site is to be as fast, legible, and widely supported as possible. This means semantic HTML, no JavaScript, and minimal CSS. It also uses an [instant.page](https://instant.page) script to improve load-times. Thank you for visiting!
