@@ -1,0 +1,16 @@
+{{ define "main" }}
+<h1 style="margin-bottom: 2px;">{{ .Title }}</h1>
+<i>And now I see with eye serene / The very pulse of the machine;</i>
+
+{{ $pages := where .Site.RegularPages "Section" "posts" }}
+{{ $sorted := $pages.ByDate.Reverse }}
+<table style="margin-top: 20px;">
+  {{ range $sorted }}
+  <tr>
+    <td style="min-width: 80px; vertical-align: top;">{{ .Date.Format "01/06" }}</td>
+    <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+  </tr>
+  {{ end }}
+</table>
+
+{{ end }}

@@ -1,0 +1,9 @@
+baseURL = 'https://ponnekanti.net/'
+languageCode = 'en-gb'
+title = 'Manav Ponnekanti'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
