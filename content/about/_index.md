@@ -16,7 +16,7 @@ In my free time I run a book club, which you can find out more about [here](/boo
 ## Contact
 
 - Email: my first name @ponnekanti.net
-- [Twitter](https://x.com/ManavPonnekanti)/[GitHub](https://github.com/ManavPonnekanti)/[Telegram](https://t.me/manavponnekanti)/Discord/everywhere: @ManavPonnekanti
+- [Twitter](https://x.com/ManavPonnekanti)/[GitHub](https://github.com/ManavPonnekanti)/everywhere: @ManavPonnekanti
 - [Linkedin](https://linkedin.com/in/manavponnekanti)
 
 ## Colophon
