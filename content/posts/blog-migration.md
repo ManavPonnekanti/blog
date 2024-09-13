@@ -3,7 +3,7 @@ title: "Migrating from Jekyll to Eleventy"
 date: 2022-11-20
 ---
 
-As of September 2024, this blog runs on [Hugo](https://gohugo.io). I’m going to leave this up both because it stands as an appraisal of the merits of SSGs in general, because it serves as a memento mori for the eternal and inescapable Dukkha of Optimisation.
+As of September 2024, this blog runs on [Hugo](https://gohugo.io). I’m going to leave this up both because it stands as an appraisal of the merits of SSGs in general, and because it serves as a memento mori for the eternal and inescapable Dukkha of Optimisation.
 
 ---
 
