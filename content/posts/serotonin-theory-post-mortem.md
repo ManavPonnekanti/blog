@@ -3,7 +3,7 @@ title: "The serotonin theory of depression: a post-mortem analysis"
 date: 2024-01-05
 ---
 
-*This piece was written in collaboration with [Aryan Arora](https://x.com/Aryan_AroraA) and originally published in Vol XI Issue 1 of the* RUMS Review *Magazine*. The full issue is available [here](https://online.fliphtml5.com/plvos/ujxj/index.html#p=1). 
+*This piece was written in collaboration with [Aryan Arora](https://x.com/Aryan_AroraA) and originally published in Vol XI Issue 1 of the* RUMS Review *Magazine. The full issue is available [here](https://online.fliphtml5.com/plvos/ujxj/index.html#p=1).* 
 
 Major depressive disorder, commonly referred to as depression, lies in the unfortunate realm of conditions which are simultaneously widespread, debilitating, stigmatised, and poorly understood. It is one of psychiatry’s paradigm-defining maladies; being the most common mental illness, it affects more than 264 million people globally and is the second leading cause of chronic disability worldwide. Its enigmatic nature has occupied minds both medical and artistic for millennia, from Hippocrates’ “humoral melancholia” to the “anomie” of the Romantics. Contemporary understandings emphasise a triad of symptoms: low mood, anhedonia (inability to feel pleasure in normally pleasurable activities), and fatigue.
 
