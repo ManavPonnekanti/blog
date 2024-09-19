@@ -1,7 +1,7 @@
 {{ define "main" }}
 <main>
     <h1 style="margin-bottom: 2px;">{{ .Title }}</h1>
-    <p class="subheading">{{ .PublishDate.Format "2 January 2006" }}</p>
+    <i>{{ .PublishDate.Format "2 January 2006" }}</i>
     <p>{{ .Content }}</p>
 </main>
 {{ end }}
