@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <style>
+        body {
+            margin: 20px auto;
+            padding: 0 10px;
+            max-width: 650px;
+            line-height: 1.6;
+            font-size: 16px;
+            font-family: system-ui;
+            color: #E5E9F0;
+            background-color: #2E3440;
+        }
+
+        h1, h2, h3 {
+            line-height: 1.2;
+        }
+
+        a {
+            color: #88C0D0;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        pre {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 16px;
+            overflow-x: auto;
+        }
+
+        hr {
+            border: 0;
+            height: 1px;
+            background: #4C566A;
+        }
+    </style>
+    <title>Migrating from Jekyll to Eleventy</title>
+</head>
+<body>
+    <header>
+        <a href="/">Blog</a> — 
+        <a href="/about">About</a> — 
+        <a href="/book-club">Book Club</a> — 
+        <a href="/index.xml">RSS</a>
+        <hr>
+    </header>
+    <main>
+        
+<main>
+    <h1 style="margin-bottom: 2px;">Migrating from Jekyll to Eleventy</h1>
+    <i>20 November 2022</i>
+    <p><p>As of September 2024, this blog runs on <a href="https://gohugo.io">Hugo</a>. I’m going to leave this up both because it stands as an appraisal of the merits of SSGs in general, and because it serves as a memento mori for the eternal and inescapable Dukkha of Optimisation.</p>
+<hr>
+<p><em><strong>N.B.</strong></em> <em>If the term &lsquo;Static Site Generator&rsquo; is unfamiliar to you, I recommend reading <a href="https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html">this blogpost</a> as a primer. Blog like a hacker!</em></p>
+<p>Though it may look the same, the backend of this blog has been drastically simplified. Previously, I was using the static site generator <a href="https://jekyllrb.com/">Jekyll</a> to build this site, but I have now migrated to a newer, flashier, and much easier to use SSG called <a href="https://www.11ty.dev/">Eleventy</a>.</p>
+<p>My requirements for a SSG are threefold:</p>
+<ol>
+<li><strong>Fast build times:</strong> Ruby is infamously slow, and even with a couple of Gems and a handful of markdown files, my build times were climbing outrageously. When used in tandem with <a href="https://pages.github.com/">GitHub Pages</a>, I would frequently get build errors as well. On the other hand, Eleventy is extremely stable and almost best in class speed-wise, beaten only by Hugo. Switching hosting to Netlify has also drastically increased deployment times.</li>
+<li><strong>Simplicity and minimalism:</strong> Jekyll has a habit of generating a bunch of difficult-to-be-rid-of CSS and folders, referencing some deeply baked-in default template. This blog is simple! I don&rsquo;t have any need for 90% of the features offered by most SSGs, including the use of CSS pre-processors. Eleventy is zero-config and has sane defaults: I barely have to think about the build process.</li>
+<li><strong>Extensibility:</strong> Eleventy works with a number of independent template languages, including Liquid, which was what all my template files were written in. The import process was seamless and the export process, if needed, is equally so. I appreciate the lack of lock-in and the portability of my writing if needed in the future.</li>
+</ol>
+<p>There&rsquo;s a few other subsidiary things that are more or less universal amongst static site generators, such as zero telemetry, being able to write all pages in Markdown, no client-side JavaScript, and more exclusively to Eleventy, agnosticism towards directory structure.
+I feel morally obliged to mention that this is largely a matter of splitting hairs and whichever SSG you choose, you will be better off than using a bloated CMS like Wordpress or the like. There are highly approachable no-code options: my favourite is <a href="https://github.com/barryclark/jekyll-now">Jekyll Now</a> by Barry Clark, which is an excellent starting point.</p>
+</p>
+</main>
+
+    </main>
+    <script src="//instant.page/5.2.0" type="module" integrity="sha384-jnZyxPjiipYXnSU0ygqeac2q7CVYMbh84q0uHVRRxEtvFPiQYbXWUorga2aqZJ0z"></script>
+</body>
+</html>
