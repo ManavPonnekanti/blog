@@ -1,6 +1,6 @@
 {{ define "main" }}
 <h1 style="margin-bottom: 2px;">{{ .Title }}</h1>
-<i>And now I see with eye serene / The very pulse of the machine;</i>
+<p class="subtitle">And now I see with eye serene / The very pulse of the machine;</p>
 
 {{ $pages := where .Site.RegularPages "Section" "posts" }}
 {{ $sorted := $pages.ByDate.Reverse }}
