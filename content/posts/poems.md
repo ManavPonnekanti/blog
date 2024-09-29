@@ -20,7 +20,7 @@ I see it shining plain,
 The happy highways where I went
 And cannot come again.
 </pre>
----
+
 ## Moonlight Night
 *R.M. Rilke*
 <pre>
@@ -33,7 +33,7 @@ Then for a while void silence fills the air;
 And then a violin (from God knows where)
 Awakes and slowly sings: Oh Love . . . Oh Love . . .
 </pre>
----
+
 ## He Wishes For The Cloths Of Heaven
 *W.B. Yeats*
 <pre>
@@ -46,7 +46,7 @@ But I, being poor, have only my dreams;
 I have spread my dreams under your feet;
 Tread softly because you tread on my dreams.
 </pre>
----
+
 ## The Eye-Mote
 *Sylvia Plath*
 <pre>
@@ -85,7 +85,7 @@ Fixed me in this parenthesis;
 Horses fluent in the wind,
 A place, a time gone out of mind.
 </pre>
----
+
 ## Brahma
 *R.W. Emerson*
 <pre>
@@ -109,7 +109,7 @@ And pine in vain the sacred Seven;
 But thou, meek lover of the good!
 Find me, and turn thy back on heaven.
 </pre>
----
+
 ## Sonnet 29
 *William Shakespeare*
 <pre>
@@ -128,7 +128,7 @@ From sullen earth) sings hymns at heaven’s gate;
        For thy sweet love remembered such wealth brings
        That then I scorn to change my state with kings.
 </pre>
----
+
 ## The Sorcerer Departs (unfinished)
 *Clark Ashton Smith*
 <pre>

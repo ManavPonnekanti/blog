@@ -1,6 +1,6 @@
 baseURL = 'https://ponnekanti.net/'
 languageCode = 'en-gb'
-title = 'Manav Ponnekanti'
+title = "Manav's Weblog"
 
 [markup]
   [markup.goldmark]
