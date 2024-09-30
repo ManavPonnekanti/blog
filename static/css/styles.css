@@ -1,3 +1,15 @@
+/* Define CSS variables for light mode */
+:root {
+    --background-color: #eee;
+    --text-color: #444;
+    --link-color: #777;
+    --link-hover-style: dashed;
+    --border-color: #777;
+    --pre-background-color: #ddd;
+    --subtitle-color: #555;
+    --post-date-color: #888;
+}
+
 body {
     margin: 20px auto;
     padding: 0 10px;
@@ -5,8 +17,8 @@ body {
     line-height: 1.6;
     font-size: 18px;
     font-family: 'EB Garamond', serif;
-    color: #444;
-    background-color: #eee;
+    color: var(--text-color);
+    background-color: var(--background-color);
 }
 
 h1 {
@@ -16,7 +28,7 @@ h1 {
 
 h2 {
     line-height: 1.2;
-    border-bottom: 1px solid #777;
+    border-bottom: 1px solid var(--border-color);
 }
 
 a {
@@ -25,12 +37,12 @@ a {
     text-decoration: underline;
     text-decoration-thickness: 1px;
     text-underline-offset: 2px;
-    text-decoration-color: #777;
+    text-decoration-color: var(--link-color);
     text-decoration-style: solid;
 }
 
 a:hover {
-    text-decoration-style: dashed;
+    text-decoration-style: var(--link-hover-style);
 }
 
 nav {
@@ -39,16 +51,16 @@ nav {
 }
 
 pre {
-    font-family: inherit;
+    font-family: 'EB Garamond', serif;
     font-size: 16px;
-    background-color: #ddd;
+    background-color: var(--pre-background-color);
     padding: 10px;
     overflow-x: auto;
 }
 
 .subtitle {
     font-size: 16px;
-    color: #555;
+    color: var(--subtitle-color);
     text-align: center;
     margin-top: 5px;
 }
@@ -66,6 +78,20 @@ pre {
     margin-right: 2em; /* Add a minimum gap between title and date */
 }
 .post-date {
-    color: #888;
+    color: var(--post-date-color);
     font-variant-numeric: tabular-nums;
+}
+
+/* Dark mode styles */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --background-color: #222;
+        --text-color: #ddd;
+        --link-color: #aaa;
+        --link-hover-style: dashed;
+        --border-color: #555;
+        --pre-background-color: #333;
+        --subtitle-color: #aaa;
+        --post-date-color: #aaa;
+    }
 }
