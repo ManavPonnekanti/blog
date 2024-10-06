@@ -7,3 +7,5 @@ title = "Manav's Weblog"
     [markup.goldmark.renderer]
       unsafe = true
 
+[build.environment]
+  HUGO_VERSION = "0.134.2"
