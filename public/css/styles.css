@@ -16,16 +16,16 @@ h1 {
 
 h2 {
     line-height: 1.2;
-    border-bottom: 1px solid #777;
+    border-bottom: 0.5px solid #444;
 }
 
 a {
     color: inherit;
     font-weight: 500;
     text-decoration: underline;
-    text-decoration-thickness: 1px;
+    text-decoration-thickness: 0.8px;
     text-underline-offset: 2px;
-    text-decoration-color: #777;
+    text-decoration-color: #444;
     text-decoration-style: solid;
 }
 
