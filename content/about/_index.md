@@ -7,17 +7,13 @@ I'm a medical student at UCL interested in the eyes, the brain, and computationa
 
 In my free time I run a book club, which you can find out more about [here](/book-club).
 
+You can contact me via email at [firstname]@ponnekanti.net.
+
 ## Previous Work
 
 - Identifying novel congenital cataract-causing variants using the NGS pipeline (paper [here](https://pubmed.ncbi.nlm.nih.gov/38957147/))
 - Developing a synthetic degradation model for retinal fundus images to generate robust pairwise training data for image enhancement networks at [Pontikos Lab](https://pontikoslab.com/)
 - Analysing the video output of the adaptive optics laser scanning ophthalmoscope at [Michaelides Lab](https://www.ucl.ac.uk/ioo/research/research-labs-and-groups/michaelides-lab)
-
-## Contact
-
-- Email: my first name @ponnekanti.net
-- [Twitter](https://x.com/ManavPonnekanti)/[GitHub](https://github.com/ManavPonnekanti)/everywhere: @ManavPonnekanti
-- [Linkedin](https://linkedin.com/in/manavponnekanti)
 
 ## Colophon
 
