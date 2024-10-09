@@ -4,4 +4,15 @@
     <p class="subtitle">{{ .PublishDate.Format "2 January 2006" }}</p>
     <p>{{ .Content }}</p>
 </main>
+<footer>
+    <hr>
+    <div class="nav-links">
+        {{ with .Prev }}
+            <a href="{{ .Permalink }}" class="prev-post">Previous Post</a>
+        {{ end }}
+        {{ with .Next }}
+            <a href="{{ .Permalink }}" class="next-post">Next Post</a>
+        {{ end }}
+    </div>
+</footer>
 {{ end }}
