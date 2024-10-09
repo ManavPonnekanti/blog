@@ -3,9 +3,7 @@ title: Some poems I like
 date: 2024-04-04
 ---
 
-I came across [this poem](https://www.newyorker.com/magazine/2023/03/06/put-my-house) in the New Yorker and it made me despair somewhat.
-
-In response, these are some of the poems I often find myself coming back to, reading aloud to myself, and writing out repeatedly as a means of procrastination.
+I came across [this poem](https://www.newyorker.com/magazine/2023/03/06/put-my-house) in the New Yorker and it made me despair somewhat. This is my retaliation.
 
 ## A Shropshire Lad, XL
 *A.E. Housman* 

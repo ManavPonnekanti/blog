@@ -2,7 +2,6 @@
 layout: page
 title: Book Club
 ---
-
 Hello! We're casual readers, generally but not exclusively focused on philosophical texts. We (attempt to) discuss every Saturday at 3pm BST/10am ET on Discord. We are very international, with people tuning in from across the US, UK, and India. We are also newcomer-friendly; if you are interested in joining, please [reach out](/about/#contact) for the Discord link.
 
 **Next session: TBA, books 3—5 of Plato's *Republic***
