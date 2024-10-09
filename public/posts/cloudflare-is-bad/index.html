@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/styles.css">
+    <title>Cloudflare is bad</title>
+</head>
+<body>
+    <nav>
+        <a href="/">Blog</a> &mdash;
+        <a href="/about">About</a> &mdash;
+        
+        <a href="/index.xml">RSS</a>
+    </nav>
+    <main>
+        
+<main>
+    <h1 style="margin-bottom: 2px;">Cloudflare is bad</h1>
+    <p class="subtitle">6 October 2024</p>
+    <p><p>I’m going to keep this brief: never use Cloudflare for domain registration or hosting if you can help it. Here are three reasons:</p>
+<ol>
+<li>If you register a domain with Cloudflare, you cannot use nameservers anywhere else. I cannot think of a single other modern registrar with such aggressive vendor-lock in. The most salient problem with this is that if you want to take advantage of a CDN, you are stuck with Cloudflare, which leads me to the second problem:</li>
+<li>Cloudflare’s CDN has abysmal UX. Due to some sort of abstruse caching policy, it does not seem to update changes to CSS files on the edge. The deployment pipeline appears to be inhabited by sentient and capricious machine-elves who will only allow particular parts of your website to be exposed to the wider world. Perhaps their whims adhere to some sort of aesthetic logic beyond my comprehension, and this inability to execute a basic hosting feature is actually an act of protest against my design choices.</li>
+<li>Finally, I have seen too many scary <a href="https://www.reddit.com/r/CloudFlare/comments/154xmd2/be_careful_about_cloudflare_for_important_tasks/">stories</a> about Cloudflare’s automated systems locking people out of their accounts due to IP changes and other unpredictable actions. The common pattern is that after the lock-out, they are stuck in hellish catch-22s in which they have to be logged into the account that they are locked out of in order to access support. The general response amongst ardent Cloudflare defenders (get a life, by the way!) is that you ought to have multiple accounts for any load-bearing domains. I do not know whether I live in some kind of bizarro-world, but this is insane to me. I have jumped ship before I too end up becoming another protagonist of a Heller novel.</li>
+</ol>
+<p>I’ve had better luck with <a href="https://namecheap.com/">Namecheap</a>, and a particularly skillful <a href="https://joodaloop.com">webdev</a> has told me good things about <a href="https://porkbun.com/">Porkbun</a>. You deserve better than Cloudflare.</p>
+</p>
+</main>
+<footer>
+    <hr>
+    <div class="nav-links">
+        
+            <a href="http://localhost:1313/posts/poems/" class="prev-post">Previous Post</a>
+        
+        
+    </div>
+</footer>
+
+    </main>
+    <script src="//instant.page/5.2.0" type="module" integrity="sha384-jnZyxPjiipYXnSU0ygqeac2q7CVYMbh84q0uHVRRxEtvFPiQYbXWUorga2aqZJ0z"></script>
+</body>
+</html>
